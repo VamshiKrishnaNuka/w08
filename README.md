@@ -25,7 +25,7 @@ Visual Studio Code is recommended, but you can use Sublime, Notepad++, or any te
 
 # Apps Used
  
-- Google app - Web Server for chrome.
+- Google app - Web Server for chrome
 
 # Developer Tools
 
